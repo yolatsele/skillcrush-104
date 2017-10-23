@@ -3512,6 +3512,35 @@ body.emilyjoringer-advice p{
   font-size: 20px;
 }
 
+/*Yolanda Marias styles*/
+
+.yolandamaria-advice header a {
+    color: Grey;
+    border: 1px solid Black;
+    text-decoration: none;
+    padding: 0px 40px;
+    margin-left:42%;
+
+}
+
+.yolandamaria-advice h1 {
+    color: black;
+    text-align: center;
+}
+
+.yolandamaria-advice h4 {
+    color: red;
+    text-transform: uppercase;
+}
+
+.yolandamaria-advice section p {
+    color: black;
+}
+
+.yolandamaria-advice footer p {
+    color: black;
+}
+
 /**Erin's style sheet**/
 body.erinorr-advice{
   color: grey ;
